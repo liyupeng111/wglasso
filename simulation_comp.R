@@ -196,7 +196,7 @@ for (p.ratio in prec){
   }
 }
 
-# intead of running above code, load a result I runned before
+# intead of running above code, load a result I ran before
 load("20140818.RData")
 
 
