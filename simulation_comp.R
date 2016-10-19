@@ -13,7 +13,7 @@ library(glmnet)
 library(doParallel)
 library(gplots)
 library(igraph)
-source("~/lasso_temp/wglasso/sim.func.R")
+source("sim.func.R")
 
 ###single simulation
 
